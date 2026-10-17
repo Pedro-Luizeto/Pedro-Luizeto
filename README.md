@@ -95,16 +95,6 @@ Aqui você encontrará meus projetos, exercícios práticos e experimentos com p
 
 ---
 
-## 🎧 O que estou ouvindo
-
-<div align="center">
-
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31kn32m2sbrreo6pm7pip7txktty&count=1&width=480" alt="Spotify recently played"/>
-
-<a href="https://open.spotify.com/user/31kn32m2sbrreo6pm7pip7txktty">
-  <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Ouça no Spotify"/>
-</a>
-
 
 
 </div>
