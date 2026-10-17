@@ -65,19 +65,10 @@ Aqui você encontrará meus projetos, exercícios práticos e experimentos com p
 
 </div>
 
----
-
-## 🐍 Minha jornada de contribuições
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Pedro-Luizeto/Pedro-Luizeto/pacman-output/bomberman-contribution-graph.svg?game=bomberman" alt="Animação de contribuições"/>
-
-</div>
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Redes Sociais
 
 <div align="center">
 
